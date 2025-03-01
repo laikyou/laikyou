@@ -1,16 +1,28 @@
-## Hi there 👋
+| 这个作业属于哪个课程 | [软工23级](https://edu.cnblogs.com/campus/gdgy/SoftwareEngineeringClassof2023) |
 
-<!--
-**laikyou/laikyou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+| 这个作业要求在哪里| [作业要求的链接](https://edu.cnblogs.com/campus/gdgy/SoftwareEngineeringClassof2023/homework/13325) |
 
-Here are some ideas to get you started:
+| 这个作业的目标 | 1.学习markdown语法；2.学习使用github |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### :rainbow:介绍自己
+  - 性格开朗:sunglasses:
+  - 有点社恐，即社交恐怖分子:grin:
+  - 音乐就是精神的避风港:headphones:，书籍是精神食粮:books:，轮滑带我感受世界的风⛸
+
+### :fire:软工5问
+***
+#### 1.在软件工程中，如何运用形式化方法提高软件的可靠性和安全性？
+#### 2.软件架构在软件工程中的作用是什么？如何设计一个可扩展且易于维护的软件架构？
+#### 3.在敏捷软件开发中，Scrum和Kanban有何异同？
+#### 4.软件重用技术有哪些？如何在软件工程实践中有效实施软件重用？
+#### 5.在软件工程实践中，如何平衡敏捷方法和传统瀑布模型的优势？
+***
+
+### :sparkles:我想收获什么？
+ ***
+  - 测试与质量保障：了解软件测试方法，确保软件质量。
+  - 团队协作：学会在团队中有效沟通与协作。
+  - 项目管理：掌握项目管理技能，提高开发效率。
+  - 持续学习：保持对新技术的好奇心和学习动力。
+  - 问题解决：培养逻辑思维和问题解决能力。
+***
