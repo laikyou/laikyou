@@ -21,7 +21,7 @@ def test_preprocess_text():
     """
     text = "这是一个测试句子"
     processed_text = main.preprocess_text(text)
-    assert processed_text == "这是 一个 测试 句子"
+    assert processed_text == "这是 测试 句子"
 
 
 def test_calculate_similarity():

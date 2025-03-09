@@ -1,8 +1,3 @@
-"""
-This is the main module for the paper check program.
-It compares two text files and calculates their similarity.
-"""
-
 import sys
 import jieba
 from sklearn.feature_extraction.text import CountVectorizer
@@ -36,6 +31,8 @@ def calculate_similarity(text1, text2):
     """
     计算两段文本的余弦相似度。
     """
+    if not text1.strip() or not text2.strip():
+        return 0.0  # 如果文本为空，返回相似度为 0
     vectorizer = CountVectorizer().fit_transform([text1, text2])
     vectors = vectorizer.toarray()
     similarity = cosine_similarity([vectors[0]], [vectors[1]])[0][0]
